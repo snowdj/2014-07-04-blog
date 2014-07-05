@@ -5,6 +5,8 @@ subtitle : Obviously a work in progress
 order : 1
 ---
 
+I will put a book I am going to write here, but now this is from the https://github.com/thedereck/gh-pages-blog/.
+
 * [Getting Started]({{ site.url }}/user-manual/getting-started.html)
 * Posts
   * Title

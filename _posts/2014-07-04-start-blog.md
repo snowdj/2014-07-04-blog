@@ -26,3 +26,20 @@ disqus :
   show_comment_count : true
 
 * Change footer.html. 
+
+
+* A substitution is pelican
+
+http://docs.getpelican.com/en/latest/content.html
+
+https://github.com/getpelican/pelican/wiki/Tutorials
+
+http://hackercodex.com/guide/pelican-static-site-generator-install/
+
+http://docs.getpelican.com/en/latest/quickstart.html
+
+
+* The same page
+
+This one seems on the same page to try different format
+https://github.com/OpenJC

@@ -5,6 +5,14 @@ subtitle : Giving credit where credit's due.
 order : 100
 ---
 
+## About econometrics
+
+
+Thanks to all the great econometricians. 
+
+
+## About the template of blog
+
 First and foremost, thanks to [GitHub](http://www.github.com) for being so awesome.
 
 Next, thanks to [Bootstrap](http://twitter.github.com/bootstrap/) for being so awesome.
