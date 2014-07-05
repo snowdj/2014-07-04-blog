@@ -327,7 +327,7 @@ github_projects :
   header : Fork Me!
   projects :
   - project :
-    name : gh-pages-blog
+    name : Evergreen
     url : http://snowdj.github.io/2014-07-04-blog/
 
 
@@ -538,7 +538,7 @@ rss :
 #   show_comment_count : false
 disqus :
   enabled : true
-  shortname : ghpagesblog
+  shortname : snowdj
   show_comment_count : true
 
 
