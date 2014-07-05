@@ -14,7 +14,7 @@ I just borrow the blog system from https://github.com/thedereck/gh-pages-blog/
 
 It looks good. Hope I can use it for my blog.
 
-The only thing I don't know is what is the setting of disqus.
+* The only thing I don't know is what is the setting of disqus.
 
 I think I need to change body/sections/javascript/post/disqus.html.
 
@@ -24,4 +24,5 @@ disqus :
   enabled : true
   shortname : snowdj
   show_comment_count : true
- 
+
+* Change footer.html. 
