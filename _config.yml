@@ -23,9 +23,9 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : GH-Pages-Blog GitHub Page
+name : evergreen
+brand : evergreen
+description : Adopted from GH-Pages-Blog GitHub Page
 url : http://snowdj.github.io/2014-07-04-blog/
 email : http://snowdj.github.io/2014-07-04-blog/
 author: snowdj
@@ -183,11 +183,11 @@ sections:
   external_links :
     enabled : true
   archive :
-    enabled : false
+    enabled : true
   categories :
-    enabled : false
+    enabled : true
   tags :
-    enabled : false
+    enabled : true
 
 
 # The navbar settings determine what menus are displayed on the navbar at the
