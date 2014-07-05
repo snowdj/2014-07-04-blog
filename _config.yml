@@ -25,10 +25,10 @@
 # author : Dereck Curry
 name : gh-pages-blog
 brand : gh-pages-blog
-description : The More Or Less Official GH-Pages-Blog GitHub Page (And Blog)
-url : https://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+description : GH-Pages-Blog GitHub Page
+url : http://snowdj.github.io/2014-07-04-blog/
+email : http://snowdj.github.io/2014-07-04-blog/
+author: snowdj
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -279,28 +279,28 @@ navbar :
 #       font_awesome_icon : icon-twitter
 #       url : https://www.twitter.com/dereckcurry
 social_links :
-  follow_name : Dereck Curry For Updates About gh-pages-blog
+  follow_name : snowdj For Updates
   links :
     - link :
       enabled : true
       name : GitHub
       font_awesome_icon : icon-github-alt
-      url : https://github.com/TheDereck
+      url : http://snowdj.github.io/2014-07-04-blog/
     - link :
       enabled : true
       name: Google+
       font_awesome_icon : icon-google-plus
-      url : https://plus.google.com/109660251296662910676?rel=author
+      url : http://snowdj.github.io/2014-07-04-blog/
     - link :
       enabled : true
       name : Linkedin
       font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/in/dereckcurry
+      url : http://snowdj.github.io/2014-07-04-blog/
     - link :
       enabled : true
       name : Twitter
       font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/DereckCurry
+      url : https://www.twitter.com/snowdj
 
 
 # These are a list of GitHub projects that the blog owner would like to
@@ -328,7 +328,7 @@ github_projects :
   projects :
   - project :
     name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    url : http://snowdj.github.io/2014-07-04-blog/
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -356,8 +356,8 @@ external_links :
   header : Great gh-pages-blog Sites!
   links :
     - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+      name : The snowdj
+      url: http://snowdj.github.io/2014-07-04-blog/
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
