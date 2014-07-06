@@ -7,6 +7,9 @@ order : 1
 
 I will put a book I am going to write here, but now this is from the https://github.com/thedereck/gh-pages-blog/.
 
+* a tool for preview the gh-pages: http://jekit.codeforamerica.org/
+Preview your Github-hosted websites before making them live. Use it to check your plain static or Jekyll-generated websites before you make them live to Github Pages or to your own server. 
+
 * [Getting Started]({{ site.url }}/user-manual/getting-started.html)
 * Posts
   * Title
