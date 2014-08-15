@@ -10,6 +10,10 @@ tags :
 
 I am reviewing statistics.
 
+Try mathjax
+
+$$\lambda$$
+
 ipython notebook --profile julia
 https://sublime.wbond.net/packages/IJulia
 
